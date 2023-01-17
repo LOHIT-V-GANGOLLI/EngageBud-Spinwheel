@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "email": "abc@xyz.com",
+      "phoneNo": "1234567890",
+      "msgConsent": true,
+      "id": 1
+    },
+    {
+      "email": "gauri@gmail.com",
+      "phoneNo": "+91 1234567800",
+      "msgConsent": false,
+      "id": 2
+    },
+    {
+      "email": "cyjf@bkj.com",
+      "phoneNo": "1234567890",
+      "msgConsent": false,
+      "id": 3
+    }
+  ]
+}
